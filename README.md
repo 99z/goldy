@@ -1,0 +1,2 @@
+# goldy
+gopher client
